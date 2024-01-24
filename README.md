@@ -1,4 +1,7 @@
-### Hi there 👋
+### 👋 Hi, I'm Garrett Guisinger
+### 🌱 I’m currently learning front and backend web development.
+### 🎓 I am working towards my bachelors in Computer Engineering at SDSU.
+### 👀 I'm mostly interested in programming using Arduinos.
 
 <!--
 **GarrettGuisinger/GarrettGuisinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
