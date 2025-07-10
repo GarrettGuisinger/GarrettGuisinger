@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Garrett Guisinger
-### 🌱 I am currently learning communication between devicing using a CAN network.
-### 🎓 I am working towards my bachelors in Computer Engineering at SDSU.
+### 🌱 I am currently learning communication AWS cloud computing.
+### 🎓 I have graduated with a bachelors in Computer Engineering at SDSU.
 ### 👀 I'm mostly interested in embedded engineering and software development.
 
 <!--
